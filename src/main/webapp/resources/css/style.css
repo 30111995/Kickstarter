@@ -1,0 +1,44 @@
+body {
+    background: url('/resources/image/Green_nature_grass_bokeh_blurred_background_1920x1200.jpg') no-repeat;
+    background-attachment: fixed;
+}
+
+.my_thumbnail {
+    background-color: rgba(117, 217, 183, 0.10);
+}
+.my_thumbnail h3 {
+    color: black;
+}
+.my_thumbnail p {
+    color: navy;
+}
+
+#categoryName {
+    color: white;
+}
+
+#categoryName h3 {
+    line-height: 100px;
+}
+
+.menuSet {
+    background-color: rgba(54, 71, 65, 0.5)
+
+}
+
+.menuSet a {
+    color: white;
+}
+ul.nav a:hover {
+    background-color: rgba(54, 71, 65, 0.7);
+}
+.context h1 {
+    color: white;
+}
+.logo h1 {
+    color: white;
+}
+.lead{
+    color: white;
+}
+
